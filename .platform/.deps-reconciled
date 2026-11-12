@@ -1,0 +1,4 @@
+v=5
+g=2
+repos=https://repo1.maven.org/maven2,https://dl.google.com/android/maven2
+app|androidx.appcompat:appcompat:1.6.1|

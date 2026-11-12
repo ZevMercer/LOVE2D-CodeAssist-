@@ -1,5 +1,5 @@
 build/
-.platform/
+.platform/caches
 .gradle/
 local.properties
 *.apk

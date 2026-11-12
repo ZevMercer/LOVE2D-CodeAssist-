@@ -1,0 +1,7 @@
+#v2
+4
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/love2d-native/app/src/main/java/org/love2d/android/GameActivity.java	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/love2d-native/app/src/main/jniLibs/arm64-v8a/libplayforge_engine.so	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/love2d-template/app/src/main/assets/game.love	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/love2d-template/README.md	1021	5	preview
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/love2d-template/.gitignore	0	0	text
