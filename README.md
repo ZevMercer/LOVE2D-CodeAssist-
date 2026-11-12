@@ -90,7 +90,7 @@ love2d-template/
 |------|---------|
 | **CodeAssist** | Latest (on Android) |
 | **Android SDK** | API 21+ (handled by CodeAssist) |
-| **LÖVE version** | 11.4 (bundled in this template) |
+| **LÖVE version** | 11.5 (bundled in this template) |
 
 ---
 
