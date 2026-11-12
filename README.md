@@ -1,6 +1,6 @@
 # LÖVE2D Template for CodeAssist 🎮
 
-A minimal Android template to run **LÖVE2D** games in [CodeAssist](https://codeassist.app) — the on-device IDE for Android. Build, run, and iterate on your LÖVE games directly on your phone or tablet.
+A minimal Android template to run **LÖVE2D** games in [CodeAssist](https://github.com/tyron12233/CodeAssist) — the on-device IDE for Android. Build, run, and iterate on your LÖVE games directly on your phone or tablet.
 
 ---
 
